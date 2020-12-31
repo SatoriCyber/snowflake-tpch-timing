@@ -1,6 +1,8 @@
 # TPC-H Snowflake Benchmark
 This is a benchmarking test of TPC-H queries on Snowflake (using the TPC-H datasets available in Snowflake), to be executed with and without Satori.
 
+If you'd like to learn more, read the blogpost about [Benchmarking Snowflake performance using TPC-C](https://blog.satoricyber.com/benchmarking-snowflake-performance-using-tpc-h)
+
 ## Required packages installation
 ```bash
 pip3 install -r requirements.txt
